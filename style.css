@@ -1,0 +1,45 @@
+body { background:url( "../img/heardofmy.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margin:0 ;
+}
+.card{
+    width: 400px;
+    margin: 30px auto;
+    background-color: antiquewhite;
+    box-shadow: 0px 5px 15px rgb(134, 18, 18);
+    border-radius: 10px;
+    padding: 20px;
+   
+}
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-tittle {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: brown;
+
+}
+.card-text{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-subtitle{
+    font-size: 18px;
+}
+.card-table{
+    font-size: 16px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.card-connecting{
+    padding-left: 0;
+    list-style-position:inside ;
+    
+}
